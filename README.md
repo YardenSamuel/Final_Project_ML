@@ -43,4 +43,4 @@ Each city appears 24 times in the dataset, corresponding to monthly data across 
 This project is licensed under the MIT License.
 
 ### Authors
-This repository is managed by Yarden Samuel and Renana Fried. For any questions or feedback, please contact us via GitHub.
+This repository is managed by Renana Fried and Yarden Samuel. For any questions or feedback, please contact us via GitHub.
